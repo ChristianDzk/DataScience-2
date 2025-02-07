@@ -1,14 +1,11 @@
 # DataScience-2
 
 
-Buenas! 
+# Bienvenidos al proyecto de Ciencia de Datos de Christian Dziczek
 
-Bienvenido al proyecto sobre el análisis de Fallecimientos en Siniestros De Tránsito Uruguay 2013-2019
 
-El objetivo de este proyecto es analizar y detectar las principales causas de fallecimientos con el objetivo de prevenir futuros accidentes.
-Para eso contamos con un DataSet obtenido de https://www.gub.uy/unidad-nacional-seguridad-vial/datos-y-estadisticas/datos-abiertos.
+En este proyecto analizaremos un Dataset sobre **Fallecimientos en Siniestros de Tránsito** en el período de 2013-2019.
 
-Nuestras principales hipotesis son:
-1- Que los accidentes se dan en las horas pico
-2- Que el vehículo más implicado puede ser la moto por su poco nivel de seguridad frente a siniestros
-3- Que las zonas más afectadas son las zonas más urbanizadas
+El Dataset mencionado es una compilación de 6 Datasets distintos, es decir, el Dataset de cada año fue integrado de forma manual en un mismo excel para tener la información consolidada en un solo archivo.
+Dichos datasets fueron extraídos de: https://catalogodatos.gub.uy/dataset/
+
